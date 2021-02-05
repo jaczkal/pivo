@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: Cože?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### Za sedmero horami, sedmero řekami, v dobách předrouškových, jsem zkoušel vařit pivo. K mému překvapení se podařilo a byl to velmi příjemný počin. Avšak... Měl jsem toho jen dvě petky, stálo mě to hromadu času, a ve výsledku to nebylo ani úplně laciné. Když jsem pak seděl na zahrádce v jedné mé oblíbené hospůdce a svíral chladivý korbel plný znamenitého moku, řekl jsem si, že to byla zajímavá zkušenost, ale tvorbu tohoto díla přenechám jiným.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+#### Po pár letech jsem dostal jako dárek Pivařku napsanou Petrem Novotným. No, začetl jsem se a už jen stačilo, aby stát zavřel podniky a nebylo cesty ven...
