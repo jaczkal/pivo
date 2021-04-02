@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cože?
+title: Jedna o pivovaru
 permalink: /about/
 ---
 

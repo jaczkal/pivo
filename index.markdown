@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<p align="center">
+  <img src="./logo.png" alt="Mikropivovar Litr" height="30%" width="30%"/>
+</p>
