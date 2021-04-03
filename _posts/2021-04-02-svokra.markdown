@@ -5,7 +5,7 @@ date:   2021-04-02
 categories: IPL 
 ---
 
-*Pro každodenní popíjení, vhodné od rána do večera...*
+*Pro každodenní popíjení, vhodné od rána do rána...*
 
 - EPM: 11.6% 
 - ABV: 4.5%
@@ -26,7 +26,7 @@ Rmutování          | Chmelovar             | Fermentace
 *50°C*             | *90 min* `40g` Sládek | *10-13°C - 5 dní* `11.5g` Saflager W 34/70
 `4.5kg` Plzeňský   | *30 min* `20g` Sládek | *14°C - 1 den* `25g` Citra
 `1kg` Mnichovský   | *30 min* `20g` ŽPČ    | *14-16°C - 1 den* `10g` Challenger
-`0.6kg` Pale Ale   | *15 min* `4g` Irský   |
+`0.6kg` Pale Ale   | *15 min* `4g` Irský mech |
 *62°C - 30 min*    | *10 min* `35g` ŽPČ    |
 *72°C - 20 min*    |                       |
 *76°C - 10 min*    |                       |
