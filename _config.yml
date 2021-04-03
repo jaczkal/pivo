@@ -19,14 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mikropivovar Litr
+logo: ./weblogo.png
 email: honza@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
-  "In vino veritas, in pivo taky." - Anonym
+  "Vaření a hodování bez hranic."
 baseurl: "/pivo" # the subpath of your site, e.g. /blog
 url: "https://jaczkal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 

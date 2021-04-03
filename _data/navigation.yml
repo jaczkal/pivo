@@ -1,0 +1,12 @@
+# Sample site navigation bar links
+
+- title: Úvod
+  url: /
+- title: Tvorba
+  url: /tvorba/
+- title: O pivovaru
+  url: /opivovaru/
+- title: Vyhledávání
+  url: /hledat/
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
