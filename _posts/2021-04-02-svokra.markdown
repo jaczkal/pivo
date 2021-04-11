@@ -9,6 +9,7 @@ categories: IPL
 
 - EPM: 11.6% 
 - ABV: 4.5%
+- IBU: 50
 
 ###### *nějaká fotka brzy zde...* 
 
