@@ -11,14 +11,13 @@ categories: IPL
 - ABV: 4.5%
 - IBU: 50
 
-###### *nějaká fotka brzy zde...* 
-
-***
+![image-center]({{ '/photos/svokra.JPG' | absolute_url }}){: .align-center}
 
 Jedno z piv, které mě nesmírně okouzlilo, je bezpochyby primátorská Tchyně. Sice není co bych ji vytknul, ale říkal jsem si, že si ji musím zkusit uvařit. Výsledek hned napoprvé (se studeným chmelením typu "co dům dal" a výkyvama počasí) byl fenomenální. Své zásluhy, ale zajisté bude mít i fakt, že se jednalo o první pivo co jsem stáčel do kyvety a tedy i první domácí pivo chutnané na čepu.
 
 Hledal jsem jméno vystihující můj počin, který mi zachutnal více než Tchyně, ale zároveň jsem ji chtěl nějakým způsobem vzdát hold. Sem tam se říká, že na Slovensku jsou dívky krajšie, tak to v tom případě musí platit i pro tchýně.
 
+***
 
 ### [v1.0.0]
 
