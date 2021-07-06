@@ -23,7 +23,7 @@ logo: ./weblogo.png
 email: honza@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   "Vaření a hodování bez hranic."
-baseurl: "/pivo" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://litr.online" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
