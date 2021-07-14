@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Wilde"
+date:   2021-07-14
+categories: Kriek
+---
+
+*Hmmm...*
+
+- EPM: 15.6% 
+- ABV: >7%
+- IBU: 6
+
+Rozhodl jsem se ho udělat trochu silnější (mimo rozsah v BJCP) a stáčel jsem tedy asi 14l.
+
+Uvidíme jak to dopadne...
+
+***
+
+### [v1.0.0]
+
+Rmutování          | Chmelovar             | Fermentace
+---                | ---                   | ---
+*67°C - start*     | *60 min* `11g`  ŽPČ   | *21°C - 7 dní* `11.5g` Safale US-05
+*51°C - konec*     |                       | *21°C - 4 dny* `4.5kg` třešní a višní (7:2)
+(240 min obrácené infuze) |                |

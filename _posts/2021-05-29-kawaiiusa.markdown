@@ -11,7 +11,14 @@ categories: Gose
 - ABV: 4%
 - IBU: 13.6
 
-//TODO
+**ZRAJE**
+
+Směs koření:
+
+* 15g koriandru
+* 5g kardamonu
+* 10g soli
+* kůra z jednoho citronu a pomeranče
 
 ***
 
