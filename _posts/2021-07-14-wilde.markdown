@@ -22,5 +22,7 @@ Uvidíme jak to dopadne...
 Rmutování          | Chmelovar             | Fermentace
 ---                | ---                   | ---
 *67°C - start*     | *60 min* `11g`  ŽPČ   | *21°C - 7 dní* `11.5g` Safale US-05
+`5kg` Pale Ale     |                       |
+`3kg` Nesladované pšenice |                |
 *51°C - konec*     |                       | *21°C - 4 dny* `4.5kg` třešní a višní (7:2)
 (240 min obrácené infuze) |                |
