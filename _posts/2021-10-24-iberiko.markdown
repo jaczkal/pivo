@@ -2,7 +2,7 @@
 layout: post
 title:  "Iberiko"
 date:   2021-10-24
-categories: Black IPA
+categories: BIPA
 ---
 
 *Když neslavíš Vánoce a zároveň nechceš urazit.*
@@ -11,7 +11,7 @@ categories: Black IPA
 - ABV: 6.5%
 - IBU: 65 
 
-
+Prostě příjemné sváteční pivko.
 
 ***
 
