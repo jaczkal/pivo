@@ -11,14 +11,14 @@ categories: Gose
 - ABV: 4%
 - IBU: 13.6
 
-**ZRAJE**
-
 Směs koření:
 
 * 15g koriandru
 * 5g kardamonu
 * 10g soli
 * kůra z jednoho citronu a pomeranče
+
+Výborný osvěžující kyseláč, po 3-6 měsících zrání asi nejchutnější. Příště zvolím větší kyselost (ač lidé říkali, že jim naopak vyhovuje můj kyseláč, protože není tak kyselý), protože mám rád, když vás ten řádně nachlazený mok na stopce pořádně potahá. Koření bylo spíše upozaděné, dal bych ho příště více.
 
 ***
 

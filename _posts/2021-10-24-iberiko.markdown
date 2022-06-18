@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Iberiko"
+date:   2021-10-24
+categories: Black IPA
+---
+
+*Když neslavíš Vánoce a zároveň nechceš urazit.*
+
+- EPM: 15% 
+- ABV: 6.5%
+- IBU: 65 
+
+
+
+***
+
+### [v1.0.0]
+
+Rmutování          | Chmelovar             | Fermentace
+---                | ---                   | ---
+*64°C - 60 min*    | *90 min* `32g` Magnum | *21°C - 5 dny* `11.5g` Safale US-05
+`4kg` Plzeňský slad | *15 min* `12g` Cascade | *21°C - 2 dny* `40g` Mosaic, `20g` Ekuanot
+`0.6kg` Carared | *10 min* `12g` Cascade |
+`1kg` Mnichovský slad | *5 min* `12g` Cascade |
+`0.4kg` Praženého ječmene (při odrmutování) | *0 min* `28` Centenial |

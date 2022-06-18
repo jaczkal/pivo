@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Rasputin"
+date:   2021-08-16
+categories: SRMNEIPA
+---
+
+*Schéma kuchařkového řešení LRRsKKsKPSaPP.*
+
+- EPM: 15.7% 
+- ABV: 6.6%
+- IBU: 40 
+
+Pokus o nějaké obskurní ovocné pivo. Příště zkusím `Sour Raspberry Milkshake Double New England India Pale Ale`.
+
+***
+
+### [v1.0.0]
+
+Rmutování          | Chmelovar             | Fermentace
+---                | ---                   | ---
+*63°C - 60 min*    | *60 min* `16g` Magnum | *21°C - 4 dny* `11.5g` Safale US-05
+`4.6kg` Pale Ale   | *10 min* `500g` Laktózy | *21°C - 3 dny* `160g` Mosaic, `1.8kg` Malin
+`0.6kg` Pšeničný slad | *0 min* `100g` Mosaic |
+`1kg` Ovesné vločky |                |
