@@ -2,7 +2,7 @@
 layout: post
 title:  "Kabuki"
 date:   2022-06-24
-categories: "Brut IPA"
+categories: Brut-IPA
 ---
 
 *TODO*
