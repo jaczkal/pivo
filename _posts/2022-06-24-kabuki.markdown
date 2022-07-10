@@ -20,7 +20,7 @@ categories: Brut-IPA
 Rmutování          | Chmelovar             | Fermentace
 ---                | ---                   | ---
 *57°C - 20 min*    | *60 min* `12g` Azacca | *21.5°C - 6 dní* `11.5g` Mangrove Jack's West Coast M44
-`5kg` Finest Pale Ale Maris Otter | *0 min* `30g` Azacca, `30g` Ekuanot, `30g` Sorachi Ace (whirlpool)| *22.5°C - 1.5 dne* `70g` Sorachi Ace, `20g` Cascade, `70g` Ekuanot, `58g` Azacca, `70g` Mimosa  
+`5kg` Finest Pale Ale Maris Otter | *0 min* `30g` Azacca, `30g` Ekuanot, `30g` Sorachi Ace (whirlpool) | *22.5°C - 1.5 dne* `70g` Sorachi Ace, `20g` Cascade, `70g` Ekuanot, `58g` Azacca, `70g` Mimosa  
 `0.7kg` Pšeničný slad | | 
 `0.75kg` Rýžových vloček | | 
 `0.3kg` Kukuřičných vloček | |
