@@ -11,6 +11,8 @@ categories: Black-IPA
 - ABV: 6.5%
 - IBU: 65 
 
+![image-center]({{ '/photos/iberiko.png' | absolute_url }}){: .align-center}
+
 Prostě příjemné sváteční pivko.
 
 ***

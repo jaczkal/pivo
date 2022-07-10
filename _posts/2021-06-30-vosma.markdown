@@ -11,6 +11,8 @@ categories: Pils
 - ABV: 3.1%
 - IBU: 42
 
+![image-center]({{ '/photos/vosma.png' | absolute_url }}){: .align-center}
+
 Zcela jsem nečekal, že první nízkoalkoholické pivo, které uvařím dosáhne takového chuťového profilu a chvály ze všech řad hodnotících. Nejvíce času při vaření mi zabrala volba sladů a návrh rmutovacího schéma, což bylo klíčové a zadařilo se. Korunu tomu všemu nasadil velmi dobrý kazbek, který jsem měl a dal tím tomu plnému a zárověň lehkému pivu duši, ve smyslu jisté nevšednosti a jedinečnosti.
 
 ***

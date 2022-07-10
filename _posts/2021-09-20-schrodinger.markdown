@@ -12,6 +12,8 @@ categories: IPL
 - IBU: 50
 - EBC: 14
 
+![image-center]({{ '/photos/genericdwarf.png' | absolute_url }}){: .align-center}
+
 Pivo vařené pro soutěž Výzva Volby Sládků. Byli osloveni dobrovolníci z řad Cechu domácích pivovarníků, aby uvařili pivo, které se bude moci dostat do českých a slovenských restaurací v daný měsíc podle daných parametrů.
 
 Chtěl jsem uvařit výborné IPL, které mám tak tuze rád a vím, že se teší velké oblibě i mezi ležákobijci. Avšak, chtěl jsem ho něčím ozvláštnit, aby nebylo jen dobré, ale bylo něčím jedinečné. Vzhledem k danému měsíci mi přišlo vhodné ho udělat polotmavé a tak vznikl India Amber Lager. Pivní styl, který jsem nikdy nepil a ani nevím jestli existuje.

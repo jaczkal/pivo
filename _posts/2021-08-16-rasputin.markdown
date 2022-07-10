@@ -11,6 +11,8 @@ categories: SRMNEIPA
 - ABV: 6.6%
 - IBU: 40 
 
+![image-center]({{ '/photos/rasputin.png' | absolute_url }}){: .align-center}
+
 Pokus o nějaké obskurní ovocné pivo. Příště zkusím `Sour Raspberry Milkshake Double New England India Pale Ale`.
 
 ***

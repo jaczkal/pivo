@@ -11,6 +11,8 @@ categories: Gose
 - ABV: 4%
 - IBU: 13.6
 
+![image-center]({{ '/photos/kawaiiusa.png' | absolute_url }}){: .align-center}
+
 Směs koření:
 
 * 15g koriandru
