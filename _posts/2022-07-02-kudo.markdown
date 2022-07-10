@@ -11,6 +11,8 @@ categories: Berliner-Weisse
 - ABV: 3.8%
 - IBU: 6 
 
+![image-center]({{ '/photos/kudo.png' | absolute_url }}){: .align-center}
+
 Kettle souring 2 dny s laktobacily Naturevia 5 stejně jako u Kawaiiusy.
 
 TODO

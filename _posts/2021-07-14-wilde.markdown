@@ -11,6 +11,8 @@ categories: Kriek
 - ABV: >7%
 - IBU: 6
 
+![image-center]({{ '/photos/wilde.png' | absolute_url }}){: .align-center}
+
 Rozhodl jsem se ho udělat trochu silnější (mimo rozsah v BJCP) a stáčel jsem tedy asi 14l.
 
 Uvidíme, jak to dopadne...

@@ -11,6 +11,8 @@ categories: Brut-IPA
 - ABV: 7.5%
 - IBU: 42
 
+![image-center]({{ '/photos/kabuki.png' | absolute_url }}){: .align-center}
+
 Čas tlačil a musel jsem stáčet dříve než jsem původně zamýšlel, takže pivo není tak extrémně suché. Volba chmelů způsobuje vskutku nevšední aromatický zážitek, ale v dobrém slova smyslu. Pivo je především citrusové s florálními tóny a poctivě namrdává. Takové pivo si představuji v chudinské čtvrti v cyberpunk future.
 
 ***
