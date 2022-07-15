@@ -5,7 +5,7 @@ date:   2022-07-02
 categories: Berliner-Weisse
 ---
 
-*TODO*
+*Pochvala co jde měřit na litry*
 
 - EPM: 10.2% 
 - ABV: 3.8%
